@@ -8,4 +8,8 @@ git checkout -b 'nome-nova-branch'
 agora é preciso modifica-la
 | Agora estou melhorando em pull request!
 Vou continuar me esforçando
-Gambate
+
+Já aprendi, agora vou aprender HTML e em breve CSS!
+Gambatte!
+
+Estou criando meu documento HTML, que emocionante!
